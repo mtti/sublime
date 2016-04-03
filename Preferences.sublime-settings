@@ -1,0 +1,10 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by file type specific settings.
+{
+	"default_line_ending": "unix",
+	"highlight_line": true,
+	"tab_completion": false,
+	"auto_complete": false,
+	"font-size": 12,
+	"rulers": [80]
+}
