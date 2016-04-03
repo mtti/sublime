@@ -7,5 +7,6 @@
 	"auto_complete": false,
 	"font-size": 12,
 	"rulers": [80],
-	"show_line_endings": true
+	"show_line_endings": true,
+	"enable_tab_scrolling": false
 }
