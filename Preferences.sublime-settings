@@ -1,4 +1,5 @@
 {
+	"update_check": false,
 	"auto_complete": false,
 	"color_scheme": "Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
 	"default_line_ending": "unix",
