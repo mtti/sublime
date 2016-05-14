@@ -18,7 +18,7 @@ Then:
 
 Install [Package Control](https://packagecontrol.io/installation).
 
-Using Package Control, install:
+Using Package Control, install the following packages. The shortcut for the command palette is Command+Shif+P on Mac and Ctrl+Shift+P elsewhere.
 
 * Monokai Extended
 * WordCount
